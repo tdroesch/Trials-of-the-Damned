@@ -1,0 +1,1054 @@
+fileFormatVersion: 2
+guid: d3f8c0f621bd81c45afaafa9c446642c
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BIND_GRP
+    100002: center_head
+    100004: center_head5
+    100006: cerberus1:center_head
+    100008: cerberus1:cerberus_body
+    100010: cerberus1:eyes
+    100012: cerberus1:l_eye
+    100014: cerberus1:r_eye
+    100016: //RootNode
+    100018: eyes
+    100020: eyes 1
+    100022: hip_jnt
+    100024: joint1
+    100026: joint2
+    100028: l_eye
+    100030: l_eye 1
+    100032: left_back_end_jnt
+    100034: left_back_knee_jnt
+    100036: left_back_leg_jnt
+    100038: left_clavicle_jnt
+    100040: left_front_ankle_jnt
+    100042: left_front_end_jnt
+    100044: left_front_knee_jnt
+    100046: left_front_leg_jnt
+    100048: left_rib_1_jnt
+    100050: left_rib_2_jnt
+    100052: left_rib_3_jnt
+    100054: left_rib_4_jnt
+    100056: left_rib_end_jnt
+    100058: left_shoulder_jnt
+    100060: Mesh
+    100062: r_eye
+    100064: r_eye 1
+    100066: right_back_end_jnt
+    100068: right_back_knee_jnt
+    100070: right_back_leg_jnt
+    100072: right_clavicle_jnt
+    100074: right_front_ankle_jnt
+    100076: right_front_end_jnt
+    100078: right_front_knee_jnt
+    100080: right_front_leg_jnt
+    100082: right_rib_1_jnt
+    100084: right_rib_2_jnt
+    100086: right_rib_3_jnt
+    100088: right_rib_4_jnt
+    100090: right_rib_end_jnt
+    100092: right_shoulder_jnt
+    100094: spine_1_jnt
+    100096: spine_2_jnt
+    100098: spine_3_jnt
+    100100: Teeth_top1_center
+    100102: Teeth_top1_left
+    100104: Teeth_top1_right
+    100106: Teeth_top2_center
+    100108: Teeth_top2_left
+    100110: Teethtop2_right
+    400000: BIND_GRP
+    400002: center_head
+    400004: center_head5
+    400006: cerberus1:center_head
+    400008: cerberus1:cerberus_body
+    400010: cerberus1:eyes
+    400012: cerberus1:l_eye
+    400014: cerberus1:r_eye
+    400016: //RootNode
+    400018: eyes
+    400020: eyes 1
+    400022: hip_jnt
+    400024: joint1
+    400026: joint2
+    400028: l_eye
+    400030: l_eye 1
+    400032: left_back_end_jnt
+    400034: left_back_knee_jnt
+    400036: left_back_leg_jnt
+    400038: left_clavicle_jnt
+    400040: left_front_ankle_jnt
+    400042: left_front_end_jnt
+    400044: left_front_knee_jnt
+    400046: left_front_leg_jnt
+    400048: left_rib_1_jnt
+    400050: left_rib_2_jnt
+    400052: left_rib_3_jnt
+    400054: left_rib_4_jnt
+    400056: left_rib_end_jnt
+    400058: left_shoulder_jnt
+    400060: Mesh
+    400062: r_eye
+    400064: r_eye 1
+    400066: right_back_end_jnt
+    400068: right_back_knee_jnt
+    400070: right_back_leg_jnt
+    400072: right_clavicle_jnt
+    400074: right_front_ankle_jnt
+    400076: right_front_end_jnt
+    400078: right_front_knee_jnt
+    400080: right_front_leg_jnt
+    400082: right_rib_1_jnt
+    400084: right_rib_2_jnt
+    400086: right_rib_3_jnt
+    400088: right_rib_4_jnt
+    400090: right_rib_end_jnt
+    400092: right_shoulder_jnt
+    400094: spine_1_jnt
+    400096: spine_2_jnt
+    400098: spine_3_jnt
+    400100: Teeth_top1_center
+    400102: Teeth_top1_left
+    400104: Teeth_top1_right
+    400106: Teeth_top2_center
+    400108: Teeth_top2_left
+    400110: Teethtop2_right
+    2300000: Teeth_top1_center
+    2300002: Teeth_top1_left
+    2300004: Teeth_top1_right
+    2300006: Teeth_top2_center
+    2300008: Teeth_top2_left
+    2300010: Teethtop2_right
+    3300000: Teeth_top1_center
+    3300002: Teeth_top1_left
+    3300004: Teeth_top1_right
+    3300006: Teeth_top2_center
+    3300008: Teeth_top2_left
+    3300010: Teethtop2_right
+    4300000: cerberus1:cerberus_body
+    4300002: center_head
+    4300004: r_eye
+    4300006: l_eye
+    4300008: Teeth_top1_right
+    4300010: Teethtop2_right
+    4300012: cerberus1:center_head
+    4300014: cerberus1:r_eye
+    4300016: cerberus1:l_eye
+    4300018: Teeth_top1_center
+    4300020: Teeth_top2_center
+    4300022: center_head5
+    4300024: r_eye
+    4300026: l_eye
+    4300028: Teeth_top1_left
+    4300030: Teeth_top2_left
+    7400000: cerberus_walk
+    7400002: cerberus_death
+    7400004: cerberus_idle
+    7400006: cerberus_pounce
+    7400008: cerberus_fireball
+    7400010: cerberus_bite
+    9500000: //RootNode
+    13700000: center_head
+    13700002: center_head5
+    13700004: cerberus1:center_head
+    13700006: cerberus1:cerberus_body
+    13700008: cerberus1:l_eye
+    13700010: cerberus1:r_eye
+    13700012: l_eye
+    13700014: l_eye 1
+    13700016: r_eye
+    13700018: r_eye 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: cerberus_walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BIND_GRP
+        weight: 1
+      - path: BIND_GRP/hip_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt/joint1
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt/joint1/left_back_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt/joint1/left_back_knee_jnt/left_back_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt/joint2
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt/joint2/right_back_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt/joint2/right_back_knee_jnt/right_back_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_1_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt/left_rib_3_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt/left_rib_3_jnt/left_rib_4_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt/left_rib_3_jnt/left_rib_4_jnt/left_rib_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt/right_rib_3_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt/right_rib_3_jnt/right_rib_4_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt/right_rib_3_jnt/right_rib_4_jnt/right_rib_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt/left_front_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt/left_front_knee_jnt/left_front_ankle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt/left_front_knee_jnt/left_front_ankle_jnt/left_front_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt/right_front_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt/right_front_knee_jnt/right_front_ankle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt/right_front_knee_jnt/right_front_ankle_jnt/right_front_end_jnt
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: Mesh/center_head
+        weight: 1
+      - path: Mesh/center_head/eyes
+        weight: 1
+      - path: Mesh/center_head/eyes/l_eye
+        weight: 1
+      - path: Mesh/center_head/eyes/r_eye
+        weight: 1
+      - path: Mesh/center_head/Teeth_top1_right
+        weight: 1
+      - path: Mesh/center_head/Teethtop2_right
+        weight: 1
+      - path: Mesh/center_head5
+        weight: 1
+      - path: Mesh/center_head5/eyes 1
+        weight: 1
+      - path: Mesh/center_head5/eyes 1/l_eye 1
+        weight: 1
+      - path: Mesh/center_head5/eyes 1/r_eye 1
+        weight: 1
+      - path: Mesh/center_head5/Teeth_top1_left
+        weight: 1
+      - path: Mesh/center_head5/Teeth_top2_left
+        weight: 1
+      - path: Mesh/cerberus1:center_head
+        weight: 1
+      - path: Mesh/cerberus1:center_head/cerberus1:eyes
+        weight: 1
+      - path: Mesh/cerberus1:center_head/cerberus1:eyes/cerberus1:l_eye
+        weight: 1
+      - path: Mesh/cerberus1:center_head/cerberus1:eyes/cerberus1:r_eye
+        weight: 1
+      - path: Mesh/cerberus1:center_head/Teeth_top1_center
+        weight: 1
+      - path: Mesh/cerberus1:center_head/Teeth_top2_center
+        weight: 1
+      - path: Mesh/cerberus1:cerberus_body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cerberus_death
+      takeName: Take 001
+      firstFrame: 88
+      lastFrame: 158
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BIND_GRP
+        weight: 1
+      - path: BIND_GRP/hip_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt/joint1
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt/joint1/left_back_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt/joint1/left_back_knee_jnt/left_back_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt/joint2
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt/joint2/right_back_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt/joint2/right_back_knee_jnt/right_back_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_1_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt/left_rib_3_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt/left_rib_3_jnt/left_rib_4_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt/left_rib_3_jnt/left_rib_4_jnt/left_rib_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt/right_rib_3_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt/right_rib_3_jnt/right_rib_4_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt/right_rib_3_jnt/right_rib_4_jnt/right_rib_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt/left_front_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt/left_front_knee_jnt/left_front_ankle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt/left_front_knee_jnt/left_front_ankle_jnt/left_front_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt/right_front_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt/right_front_knee_jnt/right_front_ankle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt/right_front_knee_jnt/right_front_ankle_jnt/right_front_end_jnt
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: Mesh/center_head
+        weight: 1
+      - path: Mesh/center_head/eyes
+        weight: 1
+      - path: Mesh/center_head/eyes/l_eye
+        weight: 1
+      - path: Mesh/center_head/eyes/r_eye
+        weight: 1
+      - path: Mesh/center_head/Teeth_top1_right
+        weight: 1
+      - path: Mesh/center_head/Teethtop2_right
+        weight: 1
+      - path: Mesh/center_head5
+        weight: 1
+      - path: Mesh/center_head5/eyes 1
+        weight: 1
+      - path: Mesh/center_head5/eyes 1/l_eye 1
+        weight: 1
+      - path: Mesh/center_head5/eyes 1/r_eye 1
+        weight: 1
+      - path: Mesh/center_head5/Teeth_top1_left
+        weight: 1
+      - path: Mesh/center_head5/Teeth_top2_left
+        weight: 1
+      - path: Mesh/cerberus1:center_head
+        weight: 1
+      - path: Mesh/cerberus1:center_head/cerberus1:eyes
+        weight: 1
+      - path: Mesh/cerberus1:center_head/cerberus1:eyes/cerberus1:l_eye
+        weight: 1
+      - path: Mesh/cerberus1:center_head/cerberus1:eyes/cerberus1:r_eye
+        weight: 1
+      - path: Mesh/cerberus1:center_head/Teeth_top1_center
+        weight: 1
+      - path: Mesh/cerberus1:center_head/Teeth_top2_center
+        weight: 1
+      - path: Mesh/cerberus1:cerberus_body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cerberus_idle
+      takeName: Take 001
+      firstFrame: 160
+      lastFrame: 402
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BIND_GRP
+        weight: 1
+      - path: BIND_GRP/hip_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt/joint1
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt/joint1/left_back_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt/joint1/left_back_knee_jnt/left_back_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt/joint2
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt/joint2/right_back_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt/joint2/right_back_knee_jnt/right_back_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_1_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt/left_rib_3_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt/left_rib_3_jnt/left_rib_4_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt/left_rib_3_jnt/left_rib_4_jnt/left_rib_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt/right_rib_3_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt/right_rib_3_jnt/right_rib_4_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt/right_rib_3_jnt/right_rib_4_jnt/right_rib_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt/left_front_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt/left_front_knee_jnt/left_front_ankle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt/left_front_knee_jnt/left_front_ankle_jnt/left_front_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt/right_front_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt/right_front_knee_jnt/right_front_ankle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt/right_front_knee_jnt/right_front_ankle_jnt/right_front_end_jnt
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: Mesh/center_head
+        weight: 1
+      - path: Mesh/center_head/eyes
+        weight: 1
+      - path: Mesh/center_head/eyes/l_eye
+        weight: 1
+      - path: Mesh/center_head/eyes/r_eye
+        weight: 1
+      - path: Mesh/center_head/Teeth_top1_right
+        weight: 1
+      - path: Mesh/center_head/Teethtop2_right
+        weight: 1
+      - path: Mesh/center_head5
+        weight: 1
+      - path: Mesh/center_head5/eyes 1
+        weight: 1
+      - path: Mesh/center_head5/eyes 1/l_eye 1
+        weight: 1
+      - path: Mesh/center_head5/eyes 1/r_eye 1
+        weight: 1
+      - path: Mesh/center_head5/Teeth_top1_left
+        weight: 1
+      - path: Mesh/center_head5/Teeth_top2_left
+        weight: 1
+      - path: Mesh/cerberus1:center_head
+        weight: 1
+      - path: Mesh/cerberus1:center_head/cerberus1:eyes
+        weight: 1
+      - path: Mesh/cerberus1:center_head/cerberus1:eyes/cerberus1:l_eye
+        weight: 1
+      - path: Mesh/cerberus1:center_head/cerberus1:eyes/cerberus1:r_eye
+        weight: 1
+      - path: Mesh/cerberus1:center_head/Teeth_top1_center
+        weight: 1
+      - path: Mesh/cerberus1:center_head/Teeth_top2_center
+        weight: 1
+      - path: Mesh/cerberus1:cerberus_body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cerberus_pounce
+      takeName: Take 001
+      firstFrame: 405
+      lastFrame: 493
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BIND_GRP
+        weight: 1
+      - path: BIND_GRP/hip_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt/joint1
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt/joint1/left_back_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt/joint1/left_back_knee_jnt/left_back_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt/joint2
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt/joint2/right_back_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt/joint2/right_back_knee_jnt/right_back_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_1_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt/left_rib_3_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt/left_rib_3_jnt/left_rib_4_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt/left_rib_3_jnt/left_rib_4_jnt/left_rib_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt/right_rib_3_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt/right_rib_3_jnt/right_rib_4_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt/right_rib_3_jnt/right_rib_4_jnt/right_rib_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt/left_front_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt/left_front_knee_jnt/left_front_ankle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt/left_front_knee_jnt/left_front_ankle_jnt/left_front_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt/right_front_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt/right_front_knee_jnt/right_front_ankle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt/right_front_knee_jnt/right_front_ankle_jnt/right_front_end_jnt
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: Mesh/center_head
+        weight: 1
+      - path: Mesh/center_head/eyes
+        weight: 1
+      - path: Mesh/center_head/eyes/l_eye
+        weight: 1
+      - path: Mesh/center_head/eyes/r_eye
+        weight: 1
+      - path: Mesh/center_head/Teeth_top1_right
+        weight: 1
+      - path: Mesh/center_head/Teethtop2_right
+        weight: 1
+      - path: Mesh/center_head5
+        weight: 1
+      - path: Mesh/center_head5/eyes 1
+        weight: 1
+      - path: Mesh/center_head5/eyes 1/l_eye 1
+        weight: 1
+      - path: Mesh/center_head5/eyes 1/r_eye 1
+        weight: 1
+      - path: Mesh/center_head5/Teeth_top1_left
+        weight: 1
+      - path: Mesh/center_head5/Teeth_top2_left
+        weight: 1
+      - path: Mesh/cerberus1:center_head
+        weight: 1
+      - path: Mesh/cerberus1:center_head/cerberus1:eyes
+        weight: 1
+      - path: Mesh/cerberus1:center_head/cerberus1:eyes/cerberus1:l_eye
+        weight: 1
+      - path: Mesh/cerberus1:center_head/cerberus1:eyes/cerberus1:r_eye
+        weight: 1
+      - path: Mesh/cerberus1:center_head/Teeth_top1_center
+        weight: 1
+      - path: Mesh/cerberus1:center_head/Teeth_top2_center
+        weight: 1
+      - path: Mesh/cerberus1:cerberus_body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cerberus_fireball
+      takeName: Take 001
+      firstFrame: 495
+      lastFrame: 582
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BIND_GRP
+        weight: 1
+      - path: BIND_GRP/hip_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt/joint1
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt/joint1/left_back_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt/joint1/left_back_knee_jnt/left_back_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt/joint2
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt/joint2/right_back_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt/joint2/right_back_knee_jnt/right_back_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_1_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt/left_rib_3_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt/left_rib_3_jnt/left_rib_4_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt/left_rib_3_jnt/left_rib_4_jnt/left_rib_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt/right_rib_3_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt/right_rib_3_jnt/right_rib_4_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt/right_rib_3_jnt/right_rib_4_jnt/right_rib_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt/left_front_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt/left_front_knee_jnt/left_front_ankle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt/left_front_knee_jnt/left_front_ankle_jnt/left_front_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt/right_front_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt/right_front_knee_jnt/right_front_ankle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt/right_front_knee_jnt/right_front_ankle_jnt/right_front_end_jnt
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: Mesh/center_head
+        weight: 1
+      - path: Mesh/center_head/eyes
+        weight: 1
+      - path: Mesh/center_head/eyes/l_eye
+        weight: 1
+      - path: Mesh/center_head/eyes/r_eye
+        weight: 1
+      - path: Mesh/center_head/Teeth_top1_right
+        weight: 1
+      - path: Mesh/center_head/Teethtop2_right
+        weight: 1
+      - path: Mesh/center_head5
+        weight: 1
+      - path: Mesh/center_head5/eyes 1
+        weight: 1
+      - path: Mesh/center_head5/eyes 1/l_eye 1
+        weight: 1
+      - path: Mesh/center_head5/eyes 1/r_eye 1
+        weight: 1
+      - path: Mesh/center_head5/Teeth_top1_left
+        weight: 1
+      - path: Mesh/center_head5/Teeth_top2_left
+        weight: 1
+      - path: Mesh/cerberus1:center_head
+        weight: 1
+      - path: Mesh/cerberus1:center_head/cerberus1:eyes
+        weight: 1
+      - path: Mesh/cerberus1:center_head/cerberus1:eyes/cerberus1:l_eye
+        weight: 1
+      - path: Mesh/cerberus1:center_head/cerberus1:eyes/cerberus1:r_eye
+        weight: 1
+      - path: Mesh/cerberus1:center_head/Teeth_top1_center
+        weight: 1
+      - path: Mesh/cerberus1:center_head/Teeth_top2_center
+        weight: 1
+      - path: Mesh/cerberus1:cerberus_body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cerberus_bite
+      takeName: Take 001
+      firstFrame: 584
+      lastFrame: 650
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BIND_GRP
+        weight: 1
+      - path: BIND_GRP/hip_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt/joint1
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt/joint1/left_back_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/left_back_leg_jnt/joint1/left_back_knee_jnt/left_back_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt/joint2
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt/joint2/right_back_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/right_back_leg_jnt/joint2/right_back_knee_jnt/right_back_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_1_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt/left_rib_3_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt/left_rib_3_jnt/left_rib_4_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/left_rib_1_jnt/left_rib_2_jnt/left_rib_3_jnt/left_rib_4_jnt/left_rib_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt/right_rib_3_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt/right_rib_3_jnt/right_rib_4_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/right_rib_1_jnt/right_rib_2_jnt/right_rib_3_jnt/right_rib_4_jnt/right_rib_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt/left_front_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt/left_front_knee_jnt/left_front_ankle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/left_clavicle_jnt/left_shoulder_jnt/left_front_leg_jnt/left_front_knee_jnt/left_front_ankle_jnt/left_front_end_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt/right_front_knee_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt/right_front_knee_jnt/right_front_ankle_jnt
+        weight: 1
+      - path: BIND_GRP/hip_jnt/spine_2_jnt/spine_3_jnt/right_clavicle_jnt/right_shoulder_jnt/right_front_leg_jnt/right_front_knee_jnt/right_front_ankle_jnt/right_front_end_jnt
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: Mesh/center_head
+        weight: 1
+      - path: Mesh/center_head/eyes
+        weight: 1
+      - path: Mesh/center_head/eyes/l_eye
+        weight: 1
+      - path: Mesh/center_head/eyes/r_eye
+        weight: 1
+      - path: Mesh/center_head/Teeth_top1_right
+        weight: 1
+      - path: Mesh/center_head/Teethtop2_right
+        weight: 1
+      - path: Mesh/center_head5
+        weight: 1
+      - path: Mesh/center_head5/eyes 1
+        weight: 1
+      - path: Mesh/center_head5/eyes 1/l_eye 1
+        weight: 1
+      - path: Mesh/center_head5/eyes 1/r_eye 1
+        weight: 1
+      - path: Mesh/center_head5/Teeth_top1_left
+        weight: 1
+      - path: Mesh/center_head5/Teeth_top2_left
+        weight: 1
+      - path: Mesh/cerberus1:center_head
+        weight: 1
+      - path: Mesh/cerberus1:center_head/cerberus1:eyes
+        weight: 1
+      - path: Mesh/cerberus1:center_head/cerberus1:eyes/cerberus1:l_eye
+        weight: 1
+      - path: Mesh/cerberus1:center_head/cerberus1:eyes/cerberus1:r_eye
+        weight: 1
+      - path: Mesh/cerberus1:center_head/Teeth_top1_center
+        weight: 1
+      - path: Mesh/cerberus1:center_head/Teeth_top2_center
+        weight: 1
+      - path: Mesh/cerberus1:cerberus_body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

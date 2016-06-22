@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 6df9d8ffd72947a4ba78ecd1b9d7e771
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: center_ramp
+    100002: cover
+    100004: giant_rock
+    100006: giant_rock2
+    100008: giant_rock3
+    100010: ground_floor
+    100012: l_ramp
+    100014: l_rock
+    100016: r_ramp
+    100018: r_rock
+    100020: rock_pile
+    100022: rock_wall2
+    100024: rocky_wall
+    100026: rockywall2
+    100028: transform24
+    100030: transform24 1
+    100032: //RootNode
+    100034: wall_lining
+    400000: center_ramp
+    400002: cover
+    400004: giant_rock
+    400006: giant_rock2
+    400008: giant_rock3
+    400010: ground_floor
+    400012: l_ramp
+    400014: l_rock
+    400016: r_ramp
+    400018: r_rock
+    400020: rock_pile
+    400022: rock_wall2
+    400024: rocky_wall
+    400026: rockywall2
+    400028: transform24
+    400030: transform24 1
+    400032: //RootNode
+    400034: wall_lining
+    2300000: center_ramp
+    2300002: cover
+    2300004: giant_rock
+    2300006: giant_rock2
+    2300008: giant_rock3
+    2300010: ground_floor
+    2300012: l_ramp
+    2300014: l_rock
+    2300016: r_ramp
+    2300018: r_rock
+    2300020: rock_pile
+    2300022: rock_wall2
+    2300024: rocky_wall
+    2300026: rockywall2
+    2300028: wall_lining
+    3300000: center_ramp
+    3300002: cover
+    3300004: giant_rock
+    3300006: giant_rock2
+    3300008: giant_rock3
+    3300010: ground_floor
+    3300012: l_ramp
+    3300014: l_rock
+    3300016: r_ramp
+    3300018: r_rock
+    3300020: rock_pile
+    3300022: rock_wall2
+    3300024: rocky_wall
+    3300026: rockywall2
+    3300028: wall_lining
+    4300000: r_ramp
+    4300002: l_ramp
+    4300004: ground_floor
+    4300006: center_ramp
+    4300008: wall_lining
+    4300010: rockywall2
+    4300012: giant_rock3
+    4300014: giant_rock2
+    4300016: giant_rock
+    4300018: r_rock
+    4300020: l_rock
+    4300022: rock_wall2
+    4300024: rocky_wall
+    4300026: cover
+    4300028: rock_pile
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

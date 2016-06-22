@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: 9fd2c71221d891846be9b186b17d8fc2
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: AnimData_Head
+    100002: AnimData_HeadTop_End
+    100004: AnimData_Hips
+    100006: AnimData_Joint_GRP
+    100008: AnimData_LeftArm
+    100010: AnimData_LeftFoot
+    100012: AnimData_LeftForeArm
+    100014: AnimData_LeftHand
+    100016: AnimData_LeftHandIndex1
+    100018: AnimData_LeftHandIndex2
+    100020: AnimData_LeftHandIndex3
+    100022: AnimData_LeftHandIndex4
+    100024: AnimData_LeftLeg
+    100026: AnimData_LeftShoulder
+    100028: AnimData_LeftToe_End
+    100030: AnimData_LeftToeBase
+    100032: AnimData_LeftUpLeg
+    100034: AnimData_Neck
+    100036: AnimData_RightArm
+    100038: AnimData_RightFoot
+    100040: AnimData_RightForeArm
+    100042: AnimData_RightHand
+    100044: AnimData_RightHandIndex1
+    100046: AnimData_RightHandIndex2
+    100048: AnimData_RightHandIndex3
+    100050: AnimData_RightHandIndex4
+    100052: AnimData_RightLeg
+    100054: AnimData_RightShoulder
+    100056: AnimData_RightToe_End
+    100058: AnimData_RightToeBase
+    100060: AnimData_RightUpLeg
+    100062: AnimData_Spine
+    100064: AnimData_Spine1
+    100066: AnimData_Spine2
+    100068: Bind_Head
+    100070: Bind_HeadTop_End
+    100072: Bind_Hips
+    100074: Bind_Joint_GRP
+    100076: Bind_LeftArm
+    100078: Bind_LeftFoot
+    100080: Bind_LeftForeArm
+    100082: Bind_LeftHand
+    100084: Bind_LeftLeg
+    100086: Bind_LeftShoulder
+    100088: Bind_LeftToe_End
+    100090: Bind_LeftToeBase
+    100092: Bind_LeftUpLeg
+    100094: Bind_Neck
+    100096: Bind_RightArm
+    100098: Bind_RightFoot
+    100100: Bind_RightForeArm
+    100102: Bind_RightHand
+    100104: Bind_RightLeg
+    100106: Bind_RightShoulder
+    100108: Bind_RightToe_End
+    100110: Bind_RightToeBase
+    100112: Bind_RightUpLeg
+    100114: Bind_Spine
+    100116: Bind_Spine1
+    100118: Bind_Spine2
+    100120: //RootNode
+    100122: harpywingandeybrow_harpy_l_brow
+    100124: harpywingandeybrow_harpy_l_wing
+    100126: harpywingandeybrow_harpy_r_brow
+    100128: harpywingandeybrow_harpy_r_wing
+    100130: Joint_GRP
+    100132: Mesh_GRP
+    100134: Mesh_polySurface1
+    400000: AnimData_Head
+    400002: AnimData_HeadTop_End
+    400004: AnimData_Hips
+    400006: AnimData_Joint_GRP
+    400008: AnimData_LeftArm
+    400010: AnimData_LeftFoot
+    400012: AnimData_LeftForeArm
+    400014: AnimData_LeftHand
+    400016: AnimData_LeftHandIndex1
+    400018: AnimData_LeftHandIndex2
+    400020: AnimData_LeftHandIndex3
+    400022: AnimData_LeftHandIndex4
+    400024: AnimData_LeftLeg
+    400026: AnimData_LeftShoulder
+    400028: AnimData_LeftToe_End
+    400030: AnimData_LeftToeBase
+    400032: AnimData_LeftUpLeg
+    400034: AnimData_Neck
+    400036: AnimData_RightArm
+    400038: AnimData_RightFoot
+    400040: AnimData_RightForeArm
+    400042: AnimData_RightHand
+    400044: AnimData_RightHandIndex1
+    400046: AnimData_RightHandIndex2
+    400048: AnimData_RightHandIndex3
+    400050: AnimData_RightHandIndex4
+    400052: AnimData_RightLeg
+    400054: AnimData_RightShoulder
+    400056: AnimData_RightToe_End
+    400058: AnimData_RightToeBase
+    400060: AnimData_RightUpLeg
+    400062: AnimData_Spine
+    400064: AnimData_Spine1
+    400066: AnimData_Spine2
+    400068: Bind_Head
+    400070: Bind_HeadTop_End
+    400072: Bind_Hips
+    400074: Bind_Joint_GRP
+    400076: Bind_LeftArm
+    400078: Bind_LeftFoot
+    400080: Bind_LeftForeArm
+    400082: Bind_LeftHand
+    400084: Bind_LeftLeg
+    400086: Bind_LeftShoulder
+    400088: Bind_LeftToe_End
+    400090: Bind_LeftToeBase
+    400092: Bind_LeftUpLeg
+    400094: Bind_Neck
+    400096: Bind_RightArm
+    400098: Bind_RightFoot
+    400100: Bind_RightForeArm
+    400102: Bind_RightHand
+    400104: Bind_RightLeg
+    400106: Bind_RightShoulder
+    400108: Bind_RightToe_End
+    400110: Bind_RightToeBase
+    400112: Bind_RightUpLeg
+    400114: Bind_Spine
+    400116: Bind_Spine1
+    400118: Bind_Spine2
+    400120: //RootNode
+    400122: harpywingandeybrow_harpy_l_brow
+    400124: harpywingandeybrow_harpy_l_wing
+    400126: harpywingandeybrow_harpy_r_brow
+    400128: harpywingandeybrow_harpy_r_wing
+    400130: Joint_GRP
+    400132: Mesh_GRP
+    400134: Mesh_polySurface1
+    4300000: Mesh_polySurface1
+    4300002: harpywingandeybrow_harpy_r_wing
+    4300004: harpywingandeybrow_harpy_l_wing
+    4300006: harpywingandeybrow_harpy_l_brow
+    4300008: harpywingandeybrow_harpy_r_brow
+    7400000: harpy_entrance
+    7400002: harpy_flinch
+    9500000: //RootNode
+    13700000: harpywingandeybrow_harpy_l_brow
+    13700002: harpywingandeybrow_harpy_l_wing
+    13700004: harpywingandeybrow_harpy_r_brow
+    13700006: harpywingandeybrow_harpy_r_wing
+    13700008: Mesh_polySurface1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: harpy_entrance
+      takeName: Take 001
+      firstFrame: 72
+      lastFrame: 139
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Joint_GRP
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_LeftUpLeg
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_LeftUpLeg/AnimData_LeftLeg
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_LeftUpLeg/AnimData_LeftLeg/AnimData_LeftFoot
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_LeftUpLeg/AnimData_LeftLeg/AnimData_LeftFoot/AnimData_LeftToeBase
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_LeftUpLeg/AnimData_LeftLeg/AnimData_LeftFoot/AnimData_LeftToeBase/AnimData_LeftToe_End
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_RightUpLeg
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_RightUpLeg/AnimData_RightLeg
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_RightUpLeg/AnimData_RightLeg/AnimData_RightFoot
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_RightUpLeg/AnimData_RightLeg/AnimData_RightFoot/AnimData_RightToeBase
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_RightUpLeg/AnimData_RightLeg/AnimData_RightFoot/AnimData_RightToeBase/AnimData_RightToe_End
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_LeftShoulder
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_LeftShoulder/AnimData_LeftArm
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_LeftShoulder/AnimData_LeftArm/AnimData_LeftForeArm
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_LeftShoulder/AnimData_LeftArm/AnimData_LeftForeArm/AnimData_LeftHand
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_LeftShoulder/AnimData_LeftArm/AnimData_LeftForeArm/AnimData_LeftHand/AnimData_LeftHandIndex1
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_LeftShoulder/AnimData_LeftArm/AnimData_LeftForeArm/AnimData_LeftHand/AnimData_LeftHandIndex1/AnimData_LeftHandIndex2
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_LeftShoulder/AnimData_LeftArm/AnimData_LeftForeArm/AnimData_LeftHand/AnimData_LeftHandIndex1/AnimData_LeftHandIndex2/AnimData_LeftHandIndex3
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_LeftShoulder/AnimData_LeftArm/AnimData_LeftForeArm/AnimData_LeftHand/AnimData_LeftHandIndex1/AnimData_LeftHandIndex2/AnimData_LeftHandIndex3/AnimData_LeftHandIndex4
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_Neck
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_Neck/AnimData_Head
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_Neck/AnimData_Head/AnimData_HeadTop_End
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_RightShoulder
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_RightShoulder/AnimData_RightArm
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_RightShoulder/AnimData_RightArm/AnimData_RightForeArm
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_RightShoulder/AnimData_RightArm/AnimData_RightForeArm/AnimData_RightHand
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_RightShoulder/AnimData_RightArm/AnimData_RightForeArm/AnimData_RightHand/AnimData_RightHandIndex1
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_RightShoulder/AnimData_RightArm/AnimData_RightForeArm/AnimData_RightHand/AnimData_RightHandIndex1/AnimData_RightHandIndex2
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_RightShoulder/AnimData_RightArm/AnimData_RightForeArm/AnimData_RightHand/AnimData_RightHandIndex1/AnimData_RightHandIndex2/AnimData_RightHandIndex3
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_RightShoulder/AnimData_RightArm/AnimData_RightForeArm/AnimData_RightHand/AnimData_RightHandIndex1/AnimData_RightHandIndex2/AnimData_RightHandIndex3/AnimData_RightHandIndex4
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_LeftUpLeg
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_LeftUpLeg/Bind_LeftLeg
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_LeftUpLeg/Bind_LeftLeg/Bind_LeftFoot
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_LeftUpLeg/Bind_LeftLeg/Bind_LeftFoot/Bind_LeftToeBase
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_LeftUpLeg/Bind_LeftLeg/Bind_LeftFoot/Bind_LeftToeBase/Bind_LeftToe_End
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_RightUpLeg
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_RightUpLeg/Bind_RightLeg
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_RightUpLeg/Bind_RightLeg/Bind_RightFoot
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_RightUpLeg/Bind_RightLeg/Bind_RightFoot/Bind_RightToeBase
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_RightUpLeg/Bind_RightLeg/Bind_RightFoot/Bind_RightToeBase/Bind_RightToe_End
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm/Bind_LeftHand
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_Neck
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_Neck/Bind_Head
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_Neck/Bind_Head/Bind_HeadTop_End
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm/Bind_RightHand
+        weight: 1
+      - path: Mesh_GRP
+        weight: 1
+      - path: Mesh_GRP/harpywingandeybrow_harpy_l_brow
+        weight: 1
+      - path: Mesh_GRP/harpywingandeybrow_harpy_l_wing
+        weight: 1
+      - path: Mesh_GRP/harpywingandeybrow_harpy_r_brow
+        weight: 1
+      - path: Mesh_GRP/harpywingandeybrow_harpy_r_wing
+        weight: 1
+      - path: Mesh_GRP/Mesh_polySurface1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: harpy_flinch
+      takeName: Take 001
+      firstFrame: 141
+      lastFrame: 173
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Joint_GRP
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_LeftUpLeg
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_LeftUpLeg/AnimData_LeftLeg
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_LeftUpLeg/AnimData_LeftLeg/AnimData_LeftFoot
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_LeftUpLeg/AnimData_LeftLeg/AnimData_LeftFoot/AnimData_LeftToeBase
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_LeftUpLeg/AnimData_LeftLeg/AnimData_LeftFoot/AnimData_LeftToeBase/AnimData_LeftToe_End
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_RightUpLeg
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_RightUpLeg/AnimData_RightLeg
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_RightUpLeg/AnimData_RightLeg/AnimData_RightFoot
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_RightUpLeg/AnimData_RightLeg/AnimData_RightFoot/AnimData_RightToeBase
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_RightUpLeg/AnimData_RightLeg/AnimData_RightFoot/AnimData_RightToeBase/AnimData_RightToe_End
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_LeftShoulder
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_LeftShoulder/AnimData_LeftArm
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_LeftShoulder/AnimData_LeftArm/AnimData_LeftForeArm
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_LeftShoulder/AnimData_LeftArm/AnimData_LeftForeArm/AnimData_LeftHand
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_LeftShoulder/AnimData_LeftArm/AnimData_LeftForeArm/AnimData_LeftHand/AnimData_LeftHandIndex1
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_LeftShoulder/AnimData_LeftArm/AnimData_LeftForeArm/AnimData_LeftHand/AnimData_LeftHandIndex1/AnimData_LeftHandIndex2
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_LeftShoulder/AnimData_LeftArm/AnimData_LeftForeArm/AnimData_LeftHand/AnimData_LeftHandIndex1/AnimData_LeftHandIndex2/AnimData_LeftHandIndex3
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_LeftShoulder/AnimData_LeftArm/AnimData_LeftForeArm/AnimData_LeftHand/AnimData_LeftHandIndex1/AnimData_LeftHandIndex2/AnimData_LeftHandIndex3/AnimData_LeftHandIndex4
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_Neck
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_Neck/AnimData_Head
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_Neck/AnimData_Head/AnimData_HeadTop_End
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_RightShoulder
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_RightShoulder/AnimData_RightArm
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_RightShoulder/AnimData_RightArm/AnimData_RightForeArm
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_RightShoulder/AnimData_RightArm/AnimData_RightForeArm/AnimData_RightHand
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_RightShoulder/AnimData_RightArm/AnimData_RightForeArm/AnimData_RightHand/AnimData_RightHandIndex1
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_RightShoulder/AnimData_RightArm/AnimData_RightForeArm/AnimData_RightHand/AnimData_RightHandIndex1/AnimData_RightHandIndex2
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_RightShoulder/AnimData_RightArm/AnimData_RightForeArm/AnimData_RightHand/AnimData_RightHandIndex1/AnimData_RightHandIndex2/AnimData_RightHandIndex3
+        weight: 1
+      - path: Joint_GRP/AnimData_Joint_GRP/AnimData_Hips/AnimData_Spine/AnimData_Spine1/AnimData_Spine2/AnimData_RightShoulder/AnimData_RightArm/AnimData_RightForeArm/AnimData_RightHand/AnimData_RightHandIndex1/AnimData_RightHandIndex2/AnimData_RightHandIndex3/AnimData_RightHandIndex4
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_LeftUpLeg
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_LeftUpLeg/Bind_LeftLeg
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_LeftUpLeg/Bind_LeftLeg/Bind_LeftFoot
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_LeftUpLeg/Bind_LeftLeg/Bind_LeftFoot/Bind_LeftToeBase
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_LeftUpLeg/Bind_LeftLeg/Bind_LeftFoot/Bind_LeftToeBase/Bind_LeftToe_End
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_RightUpLeg
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_RightUpLeg/Bind_RightLeg
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_RightUpLeg/Bind_RightLeg/Bind_RightFoot
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_RightUpLeg/Bind_RightLeg/Bind_RightFoot/Bind_RightToeBase
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_RightUpLeg/Bind_RightLeg/Bind_RightFoot/Bind_RightToeBase/Bind_RightToe_End
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm/Bind_LeftHand
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_Neck
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_Neck/Bind_Head
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_Neck/Bind_Head/Bind_HeadTop_End
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm
+        weight: 1
+      - path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm/Bind_RightHand
+        weight: 1
+      - path: Mesh_GRP
+        weight: 1
+      - path: Mesh_GRP/harpywingandeybrow_harpy_l_brow
+        weight: 1
+      - path: Mesh_GRP/harpywingandeybrow_harpy_l_wing
+        weight: 1
+      - path: Mesh_GRP/harpywingandeybrow_harpy_r_brow
+        weight: 1
+      - path: Mesh_GRP/harpywingandeybrow_harpy_r_wing
+        weight: 1
+      - path: Mesh_GRP/Mesh_polySurface1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Bind_Hips
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: fddff956cace8cd4c87694c4f495199f,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

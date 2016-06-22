@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 7e87f2c603b30f74889da5182c7e4508
+timeCreated: 1449089129
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: beard
+    100002: face
+    100004: hair
+    100006: l_eyebrow
+    100008: polySurface71
+    100010: polySurface72
+    100012: polySurface78
+    100014: polySurface79
+    100016: r_eyebrow
+    100018: //RootNode
+    100020: typhon_body
+    400000: beard
+    400002: face
+    400004: hair
+    400006: l_eyebrow
+    400008: polySurface71
+    400010: polySurface72
+    400012: polySurface78
+    400014: polySurface79
+    400016: r_eyebrow
+    400018: //RootNode
+    400020: typhon_body
+    2300000: beard
+    2300002: face
+    2300004: hair
+    2300006: l_eyebrow
+    2300008: polySurface71
+    2300010: polySurface72
+    2300012: polySurface78
+    2300014: polySurface79
+    2300016: r_eyebrow
+    3300000: beard
+    3300002: face
+    3300004: hair
+    3300006: l_eyebrow
+    3300008: polySurface71
+    3300010: polySurface72
+    3300012: polySurface78
+    3300014: polySurface79
+    3300016: r_eyebrow
+    4300000: beard
+    4300002: hair
+    4300004: polySurface79
+    4300006: polySurface78
+    4300008: polySurface72
+    4300010: polySurface71
+    4300012: face
+    4300014: r_eyebrow
+    4300016: l_eyebrow
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

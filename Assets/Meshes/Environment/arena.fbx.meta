@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: e8fc9b582d6c46d4ca4106d3391bcbe6
+timeCreated: 1449089131
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: arena_floor
+    100004: backwalk
+    100006: connector
+    100008: corner_walkway
+    100010: corner_walkway2
+    100012: emersion_protector
+    100014: l_ramp
+    100016: lifted_floor
+    100018: mainramp
+    100020: mini_wall
+    100022: mini_wall 1
+    100024: mini_wall 2
+    100026: mini_wall 3
+    100028: mini_wall1
+    100030: mini_wall2
+    100032: mini_wall3
+    100034: mini_wall4
+    100036: polySurface196
+    100038: polySurface197
+    100040: polySurface198
+    100042: polySurface199
+    100044: polySurface200
+    100046: polySurface201
+    100048: polySurface218
+    100050: polySurface219
+    100052: polySurface220
+    100054: polySurface221
+    100056: polySurface222
+    100058: polySurface223
+    100060: polySurface224
+    100062: polySurface225
+    100064: polySurface226
+    100066: polySurface227
+    100068: polySurface228
+    100070: polySurface229
+    100072: r_ramp
+    100074: rock_cluster
+    100076: rock_face
+    100078: rock_face2
+    100080: rock_face3
+    100082: rock_face4
+    100084: rock_face5
+    100086: rock_face6
+    100088: rock_face7
+    100090: rock_face8
+    100092: rock_faces
+    100094: rockspike_01
+    100096: rockspike_010
+    100098: rockspike_011
+    100100: rockspike_012
+    100102: rockspike_014
+    100104: rockspike_015
+    100106: rockspike_016
+    100108: rockspike_017
+    100110: rockspike_018
+    100112: rockspike_019
+    100114: rockspike_02
+    100116: rockspike_020
+    100118: rockspike_021
+    100120: rockspike_022
+    100122: rockspike_023
+    100124: rockspike_03
+    100126: rockspike_04
+    100128: rockspike_05
+    100130: rockspike_06
+    100132: rockspike_07
+    100134: rockspike_10
+    100136: rockspike_11
+    100138: rockspike_13
+    100140: rockspike_14
+    100142: rockspike_15
+    100144: rockspike_16
+    100146: rockspike_17
+    100148: rockspike_18
+    100150: rockspike_19
+    100152: rockspike_20
+    100154: rockspike_21
+    100156: rockspike_22
+    100158: rockspike_23
+    100160: rockspike_24
+    100162: rockspike_25
+    100164: rockspike_26
+    100166: transform24
+    100168: transform24 1
+    100170: walkway
+    100172: walkway_sidepart3
+    100174: walkway_sidepart_1
+    100176: walkway_sidepart_2
+    100178: walkway_sidepart_4
+    100180: wall1
+    100182: wall1 1
+    100184: wall10
+    100186: wall11
+    100188: wall12
+    100190: wall13
+    100192: wall14
+    100194: wall15
+    100196: wall16
+    100198: wall17
+    100200: wall18
+    100202: wall19
+    100204: wall2
+    100206: wall2 1
+    100208: wall2 2
+    100210: wall2 3
+    100212: wall20
+    100214: wall21
+    100216: wall22
+    100218: wall23
+    100220: wall24
+    100222: wall25
+    100224: wall26
+    100226: wall27
+    100228: wall3
+    100230: wall3 1
+    100232: wall4
+    100234: wall4 1
+    100236: wall4 2
+    100238: wall4 3
+    100240: wall5
+    100242: wall5 1
+    100244: wall5 2
+    100246: wall5 3
+    100248: wall6
+    100250: wall6 1
+    100252: wall7
+    100254: wall7 1
+    100256: wall8
+    100258: wall9
+    100260: wall_connector
+    100262: wall_connector 1
+    100264: wall_connector1
+    100266: wall_connector2
+    100268: wall_corner
+    100270: wall_corner 1
+    100272: walling_l
+    100274: walling_l_corner
+    100276: walling_r
+    100278: walling_r_corner
+    400000: //RootNode
+    400002: arena_floor
+    400004: backwalk
+    400006: connector
+    400008: corner_walkway
+    400010: corner_walkway2
+    400012: emersion_protector
+    400014: l_ramp
+    400016: lifted_floor
+    400018: mainramp
+    400020: mini_wall
+    400022: mini_wall 1
+    400024: mini_wall 2
+    400026: mini_wall 3
+    400028: mini_wall1
+    400030: mini_wall2
+    400032: mini_wall3
+    400034: mini_wall4
+    400036: polySurface196
+    400038: polySurface197
+    400040: polySurface198
+    400042: polySurface199
+    400044: polySurface200
+    400046: polySurface201
+    400048: polySurface218
+    400050: polySurface219
+    400052: polySurface220
+    400054: polySurface221
+    400056: polySurface222
+    400058: polySurface223
+    400060: polySurface224
+    400062: polySurface225
+    400064: polySurface226
+    400066: polySurface227
+    400068: polySurface228
+    400070: polySurface229
+    400072: r_ramp
+    400074: rock_cluster
+    400076: rock_face
+    400078: rock_face2
+    400080: rock_face3
+    400082: rock_face4
+    400084: rock_face5
+    400086: rock_face6
+    400088: rock_face7
+    400090: rock_face8
+    400092: rock_faces
+    400094: rockspike_01
+    400096: rockspike_010
+    400098: rockspike_011
+    400100: rockspike_012
+    400102: rockspike_014
+    400104: rockspike_015
+    400106: rockspike_016
+    400108: rockspike_017
+    400110: rockspike_018
+    400112: rockspike_019
+    400114: rockspike_02
+    400116: rockspike_020
+    400118: rockspike_021
+    400120: rockspike_022
+    400122: rockspike_023
+    400124: rockspike_03
+    400126: rockspike_04
+    400128: rockspike_05
+    400130: rockspike_06
+    400132: rockspike_07
+    400134: rockspike_10
+    400136: rockspike_11
+    400138: rockspike_13
+    400140: rockspike_14
+    400142: rockspike_15
+    400144: rockspike_16
+    400146: rockspike_17
+    400148: rockspike_18
+    400150: rockspike_19
+    400152: rockspike_20
+    400154: rockspike_21
+    400156: rockspike_22
+    400158: rockspike_23
+    400160: rockspike_24
+    400162: rockspike_25
+    400164: rockspike_26
+    400166: transform24
+    400168: transform24 1
+    400170: walkway
+    400172: walkway_sidepart3
+    400174: walkway_sidepart_1
+    400176: walkway_sidepart_2
+    400178: walkway_sidepart_4
+    400180: wall1
+    400182: wall1 1
+    400184: wall10
+    400186: wall11
+    400188: wall12
+    400190: wall13
+    400192: wall14
+    400194: wall15
+    400196: wall16
+    400198: wall17
+    400200: wall18
+    400202: wall19
+    400204: wall2
+    400206: wall2 1
+    400208: wall2 2
+    400210: wall2 3
+    400212: wall20
+    400214: wall21
+    400216: wall22
+    400218: wall23
+    400220: wall24
+    400222: wall25
+    400224: wall26
+    400226: wall27
+    400228: wall3
+    400230: wall3 1
+    400232: wall4
+    400234: wall4 1
+    400236: wall4 2
+    400238: wall4 3
+    400240: wall5
+    400242: wall5 1
+    400244: wall5 2
+    400246: wall5 3
+    400248: wall6
+    400250: wall6 1
+    400252: wall7
+    400254: wall7 1
+    400256: wall8
+    400258: wall9
+    400260: wall_connector
+    400262: wall_connector 1
+    400264: wall_connector1
+    400266: wall_connector2
+    400268: wall_corner
+    400270: wall_corner 1
+    400272: walling_l
+    400274: walling_l_corner
+    400276: walling_r
+    400278: walling_r_corner
+    2300000: arena_floor
+    2300002: emersion_protector
+    2300004: l_ramp
+    2300006: mainramp
+    2300008: mini_wall
+    2300010: mini_wall 1
+    2300012: mini_wall 2
+    2300014: mini_wall 3
+    2300016: polySurface196
+    2300018: polySurface197
+    2300020: polySurface198
+    2300022: polySurface199
+    2300024: polySurface200
+    2300026: polySurface201
+    2300028: polySurface218
+    2300030: polySurface219
+    2300032: polySurface220
+    2300034: polySurface221
+    2300036: polySurface222
+    2300038: polySurface223
+    2300040: polySurface224
+    2300042: polySurface225
+    2300044: polySurface226
+    2300046: polySurface227
+    2300048: polySurface228
+    2300050: polySurface229
+    2300052: r_ramp
+    2300054: rock_face
+    2300056: rock_face2
+    2300058: rock_face3
+    2300060: rock_face4
+    2300062: rock_face5
+    2300064: rock_face6
+    2300066: rock_face7
+    2300068: rock_face8
+    2300070: rockspike_01
+    2300072: rockspike_010
+    2300074: rockspike_011
+    2300076: rockspike_012
+    2300078: rockspike_014
+    2300080: rockspike_015
+    2300082: rockspike_016
+    2300084: rockspike_017
+    2300086: rockspike_018
+    2300088: rockspike_019
+    2300090: rockspike_02
+    2300092: rockspike_020
+    2300094: rockspike_021
+    2300096: rockspike_022
+    2300098: rockspike_023
+    2300100: rockspike_03
+    2300102: rockspike_04
+    2300104: rockspike_05
+    2300106: rockspike_06
+    2300108: rockspike_07
+    2300110: rockspike_10
+    2300112: rockspike_11
+    2300114: rockspike_13
+    2300116: rockspike_14
+    2300118: rockspike_15
+    2300120: rockspike_16
+    2300122: rockspike_17
+    2300124: rockspike_18
+    2300126: rockspike_19
+    2300128: rockspike_20
+    2300130: rockspike_21
+    2300132: rockspike_22
+    2300134: wall1
+    2300136: wall1 1
+    2300138: wall2
+    2300140: wall2 1
+    2300142: wall2 2
+    2300144: wall2 3
+    2300146: wall3
+    2300148: wall3 1
+    2300150: wall4
+    2300152: wall4 1
+    2300154: wall4 2
+    2300156: wall4 3
+    2300158: wall5
+    2300160: wall5 1
+    2300162: wall5 2
+    2300164: wall5 3
+    2300166: wall6
+    2300168: wall6 1
+    2300170: wall7
+    2300172: wall7 1
+    2300174: wall_connector
+    2300176: wall_connector 1
+    2300178: wall_corner
+    2300180: wall_corner 1
+    3300000: arena_floor
+    3300002: emersion_protector
+    3300004: l_ramp
+    3300006: mainramp
+    3300008: mini_wall
+    3300010: mini_wall 1
+    3300012: mini_wall 2
+    3300014: mini_wall 3
+    3300016: polySurface196
+    3300018: polySurface197
+    3300020: polySurface198
+    3300022: polySurface199
+    3300024: polySurface200
+    3300026: polySurface201
+    3300028: polySurface218
+    3300030: polySurface219
+    3300032: polySurface220
+    3300034: polySurface221
+    3300036: polySurface222
+    3300038: polySurface223
+    3300040: polySurface224
+    3300042: polySurface225
+    3300044: polySurface226
+    3300046: polySurface227
+    3300048: polySurface228
+    3300050: polySurface229
+    3300052: r_ramp
+    3300054: rock_face
+    3300056: rock_face2
+    3300058: rock_face3
+    3300060: rock_face4
+    3300062: rock_face5
+    3300064: rock_face6
+    3300066: rock_face7
+    3300068: rock_face8
+    3300070: rockspike_01
+    3300072: rockspike_010
+    3300074: rockspike_011
+    3300076: rockspike_012
+    3300078: rockspike_014
+    3300080: rockspike_015
+    3300082: rockspike_016
+    3300084: rockspike_017
+    3300086: rockspike_018
+    3300088: rockspike_019
+    3300090: rockspike_02
+    3300092: rockspike_020
+    3300094: rockspike_021
+    3300096: rockspike_022
+    3300098: rockspike_023
+    3300100: rockspike_03
+    3300102: rockspike_04
+    3300104: rockspike_05
+    3300106: rockspike_06
+    3300108: rockspike_07
+    3300110: rockspike_10
+    3300112: rockspike_11
+    3300114: rockspike_13
+    3300116: rockspike_14
+    3300118: rockspike_15
+    3300120: rockspike_16
+    3300122: rockspike_17
+    3300124: rockspike_18
+    3300126: rockspike_19
+    3300128: rockspike_20
+    3300130: rockspike_21
+    3300132: rockspike_22
+    3300134: wall1
+    3300136: wall1 1
+    3300138: wall2
+    3300140: wall2 1
+    3300142: wall2 2
+    3300144: wall2 3
+    3300146: wall3
+    3300148: wall3 1
+    3300150: wall4
+    3300152: wall4 1
+    3300154: wall4 2
+    3300156: wall4 3
+    3300158: wall5
+    3300160: wall5 1
+    3300162: wall5 2
+    3300164: wall5 3
+    3300166: wall6
+    3300168: wall6 1
+    3300170: wall7
+    3300172: wall7 1
+    3300174: wall_connector
+    3300176: wall_connector 1
+    3300178: wall_corner
+    3300180: wall_corner 1
+    4300000: l_ramp
+    4300002: r_ramp
+    4300004: arena_floor
+    4300006: wall_corner
+    4300008: wall1
+    4300010: wall2
+    4300012: wall_connector
+    4300014: wall3
+    4300016: wall5
+    4300018: wall4
+    4300020: mini_wall
+    4300022: wall_corner
+    4300024: wall1
+    4300026: wall2
+    4300028: wall_connector
+    4300030: wall3
+    4300032: wall5
+    4300034: wall4
+    4300036: mini_wall
+    4300038: rock_face5
+    4300040: rock_face6
+    4300042: rock_face7
+    4300044: rock_face8
+    4300046: rock_face
+    4300048: rock_face2
+    4300050: rock_face3
+    4300052: rock_face4
+    4300054: rockspike_015
+    4300056: rockspike_014
+    4300058: rockspike_17
+    4300060: rockspike_18
+    4300062: rockspike_07
+    4300064: rockspike_15
+    4300066: rockspike_14
+    4300068: rockspike_05
+    4300070: wall2
+    4300072: wall5
+    4300074: wall4
+    4300076: mini_wall
+    4300078: wall6
+    4300080: wall7
+    4300082: wall2
+    4300084: wall5
+    4300086: wall4
+    4300088: mini_wall
+    4300090: wall6
+    4300092: wall7
+    4300094: polySurface196
+    4300096: polySurface197
+    4300098: polySurface198
+    4300100: polySurface199
+    4300102: polySurface228
+    4300104: polySurface229
+    4300106: polySurface200
+    4300108: polySurface201
+    4300110: mainramp
+    4300112: polySurface226
+    4300114: polySurface227
+    4300116: polySurface224
+    4300118: polySurface225
+    4300120: polySurface218
+    4300122: polySurface219
+    4300124: polySurface220
+    4300126: polySurface221
+    4300128: polySurface222
+    4300130: polySurface223
+    4300132: emersion_protector
+    4300134: rockspike_01
+    4300136: rockspike_02
+    4300138: rockspike_03
+    4300140: rockspike_04
+    4300142: rockspike_06
+    4300144: rockspike_10
+    4300146: rockspike_11
+    4300148: rockspike_13
+    4300150: rockspike_010
+    4300152: rockspike_011
+    4300154: rockspike_16
+    4300156: rockspike_016
+    4300158: rockspike_017
+    4300160: rockspike_018
+    4300162: rockspike_012
+    4300164: rockspike_20
+    4300166: rockspike_19
+    4300168: rockspike_020
+    4300170: rockspike_019
+    4300172: rockspike_21
+    4300174: rockspike_021
+    4300176: rockspike_22
+    4300178: rockspike_022
+    4300180: rockspike_023
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

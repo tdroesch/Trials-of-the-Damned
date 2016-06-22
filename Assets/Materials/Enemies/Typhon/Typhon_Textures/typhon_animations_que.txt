@@ -1,0 +1,80 @@
+Typhon Animations
+
+-Idle:
+
+   - Running Time: 02-349
+
+       - Facial Timing
+
+		-Eyes
+		   -FACE_01: 02-20
+		   -FACE_02: 21
+		   -FACE_03: 22
+		   -FACE_02: 23
+		   -FACE_01: 24-120
+		   -FACE_02: 121
+		   -FACE_03: 122
+		   -FACE_02: 123
+		   -FACE_01: 124-220
+		   -FACE_02: 221
+		   -FACE_03: 222
+		   -FACE_02: 223
+		   -FACE_01: 224-349
+
+		-Mouth
+		   -FACE_01: 02-80
+		   -FACE_03: 81-149
+		   -FACE_02: 150-325
+		   -FACE_01: 326-349
+
+-Flinch
+
+   - Running Time: 352-429
+
+       - Facial Timing
+
+		-Eyes
+		   -FACE_01: 352
+		   -FACE_02: 354
+		   -FACE_03: 355-365
+		   -FACE_02: 366
+		   -FACE_01: 367-386
+		   -FACE_02: 387
+		   -FACE_03: 388-410
+		   -FACE_02: 411
+		   -FACE_01: 412
+
+		-Mouth
+		   -FACE_01: 352-353
+		   -FACE_04: 354-356
+		   -FACE_02: 358-388
+		   -FACE_03: 389-420
+		   -FACE_01: 421-429
+
+-Ice Breath
+
+   - Running Time: 432-621
+
+       - Facial Timing
+
+		-Eyes
+		   -FACE_02: 432
+		   -FACE_03: 433
+		   -FACE_02: 434
+		   -FACE_01: 435-470
+		   -FACE_02: 471-500
+		   -FACE_03: 501
+		   -FACE_04: 502
+		   -FACE_05: 503-584
+		   -FACE_04: 585-606
+		   -FACE_03: 607
+		   -FACE_02: 608
+		   -FACE_01: 609-621
+
+
+		-Mouth
+		   -FACE_02: 432-439
+		   -FACE_04: 440-482
+		   -FACE_03: 483-502
+		   -FACE_05: 503-605
+		   -FACE_03: 606-621
